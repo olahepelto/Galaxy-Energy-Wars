@@ -1,5 +1,11 @@
-# Galaxy-War
-Small fully procedurally generated node based strategy war faction simulation in space. Small experiment with node based procedural generation.
+# Galaxy Energy Wars
+This project is a fork of https://github.com/olahepelto/Galaxy-War
+
+The idea of the game is to wage war against a generic AI enemy in a galaxy.
+
+## Backstory
+The year is 2190, the energy conflict that has recently been raging in the Omega-Delta sector has expanded to full out war. At the brink of destruction, you have now been given the task of defeating the evil space fleet of the Rrr'n'irl. If you fail, the consequences are dire.
+
 
 ## Images
 
